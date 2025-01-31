@@ -1,0 +1,30 @@
+mern-prime-vod/
+├── client/
+│   ├── public/
+│   └── src/
+│       ├── components/
+│       │   ├── auth/
+│       │   ├── common/
+│       │   ├── dashboard/
+│       │   └── video/
+│       ├── context/
+│       ├── hooks/
+│       ├── pages/
+│       │   ├── Admin/
+│       │   ├── Auth/
+│       │   ├── Home/
+│       │   └── User/
+│       ├── services/
+│       ├── styles/
+│       ├── App.js
+│       └── index.js
+├── server/
+│   ├── config/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── middleware/
+│   ├── utils/
+│   └── server.js
+├── tailwind.config.js
+└── package.json
